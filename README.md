@@ -2,4 +2,5 @@
 <p align="center">
   Cyber-security student · Networking & Linux enthusiast
 </p>
-*(Content coming soon)*
+### Current focus
+- **University**: B.Sc. (Honours) Cyber Security @ Open University (1st year)
