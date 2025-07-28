@@ -3,7 +3,7 @@
 </p>
 
 ### Current focus
-- Coursework: B.Sc. (Honours) Cyber Security @ Open University (1st year)
+- Coursework: B.Sc. (Honours) Cyber Security (2nd year)
 - Defensive Security
   - ECS
   - KQL/EQL
