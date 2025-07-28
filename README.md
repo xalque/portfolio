@@ -11,5 +11,5 @@
   - Detection rules & Cases
   - Zeek/Suricata
   - Basic DFIR
-- Other:
+- Other
   - SAP
